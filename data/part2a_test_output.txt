@@ -1,0 +1,425 @@
+[PARENT] Loaded exam data/exams/exam_0001.txt (student 0001)
+[TA 0] Starting exam for student 0001
+[TA 1] Starting exam for student 0001
+[TA 2] Starting exam for student 0001
+[TA 2] Correcting rubric for Q1: A -> B
+[TA 1] Correcting rubric for Q1: B -> C
+[TA 0] Correcting rubric for Q1: C -> D
+[TA 2] Correcting rubric for Q2: B -> C
+[TA 1] No change to rubric for Q2 (C)
+[TA 0] Correcting rubric for Q2: C -> D
+[TA 1] Correcting rubric for Q3: C -> D
+[TA 2] No change to rubric for Q3 (D)
+[TA 0] No change to rubric for Q3 (D)
+[TA 1] No change to rubric for Q4 (D)
+[TA 2] No change to rubric for Q4 (D)
+[TA 1] No change to rubric for Q5 (E)
+[TA 0] No change to rubric for Q4 (D)
+[TA 2] Correcting rubric for Q5: E -> F
+[TA 0] No change to rubric for Q5 (F)
+[TA 1] Marked question 3 for student 0001
+[TA 2] Marked question 4 for student 0001
+[TA 0] Marked question 2 for student 0001
+[TA 0] Finished all questions for student 0001
+[PARENT] Loaded exam data/exams/exam_0002.txt (student 0002)
+[TA 0] Starting exam for student 0002
+[TA 0] No change to rubric for Q1 (D)
+[TA 2] Marked question 1 for student 0001
+[TA 1] Marked question 5 for student 0001
+[TA 0] Correcting rubric for Q2: D -> E
+[TA 0] No change to rubric for Q3 (D)
+[TA 1] Marked question 2 for student 0001
+[TA 2] Marked question 5 for student 0001
+[TA 0] No change to rubric for Q4 (D)
+[TA 0] Correcting rubric for Q5: F -> G
+[TA 2] Marked question 1 for student 0001
+[TA 2] Finished all questions for student 0001
+[TA 2] Starting exam for student 0002
+[TA 1] Marked question 3 for student 0001
+[TA 1] Finished all questions for student 0001
+[TA 1] Starting exam for student 0002
+[TA 2] No change to rubric for Q1 (D)
+[TA 1] No change to rubric for Q1 (D)
+[TA 0] Marked question 4 for student 0002
+[TA 0] Finished all questions for student 0002
+[PARENT] Loaded exam data/exams/exam_0003.txt (student 0003)
+[TA 0] Starting exam for student 0003
+[TA 2] No change to rubric for Q2 (E)
+[TA 1] Correcting rubric for Q2: E -> F
+[TA 2] No change to rubric for Q3 (D)
+[TA 0] No change to rubric for Q1 (D)
+[TA 1] Correcting rubric for Q3: D -> E
+[TA 2] No change to rubric for Q4 (D)
+[TA 0] Correcting rubric for Q2: F -> G
+[TA 1] Correcting rubric for Q4: D -> E
+[TA 2] No change to rubric for Q5 (G)
+[TA 0] Correcting rubric for Q3: E -> F
+[TA 1] No change to rubric for Q5 (G)
+[TA 0] Correcting rubric for Q4: E -> F
+[TA 2] Marked question 4 for student 0002
+[TA 0] No change to rubric for Q5 (G)
+[TA 1] Marked question 2 for student 0002
+[TA 2] Marked question 5 for student 0002
+[TA 2] Finished all questions for student 0002
+[TA 2] Starting exam for student 0003
+[TA 2] No change to rubric for Q1 (D)
+[TA 0] Marked question 1 for student 0003
+[TA 0] Finished all questions for student 0003
+[PARENT] Loaded exam data/exams/exam_0004.txt (student 0004)
+[TA 0] Starting exam for student 0004
+[TA 1] Marked question 3 for student 0002
+[TA 2] Correcting rubric for Q2: G -> H
+[TA 0] No change to rubric for Q1 (D)
+[TA 0] No change to rubric for Q2 (H)
+[TA 2] Correcting rubric for Q3: F -> G
+[TA 1] Marked question 4 for student 0002
+[TA 2] No change to rubric for Q4 (F)
+[TA 0] No change to rubric for Q3 (G)
+[TA 2] Correcting rubric for Q5: G -> H
+[TA 0] Correcting rubric for Q4: F -> G
+[TA 1] Marked question 1 for student 0002
+[TA 0] Correcting rubric for Q5: H -> I
+[TA 2] Marked question 5 for student 0003
+[TA 2] Finished all questions for student 0003
+[TA 2] Starting exam for student 0004
+[TA 2] No change to rubric for Q1 (D)
+[TA 0] Marked question 3 for student 0004
+[TA 0] Finished all questions for student 0004
+[PARENT] Loaded exam data/exams/exam_0005.txt (student 0005)
+[TA 0] Starting exam for student 0005
+[TA 2] Correcting rubric for Q2: H -> I
+[TA 0] No change to rubric for Q1 (D)
+[TA 1] Marked question 2 for student 0002
+[TA 2] Correcting rubric for Q3: G -> H
+[TA 0] Correcting rubric for Q2: I -> J
+[TA 1] Marked question 5 for student 0002
+[TA 2] No change to rubric for Q4 (G)
+[TA 2] No change to rubric for Q5 (I)
+[TA 0] No change to rubric for Q3 (H)
+[TA 1] Marked question 2 for student 0002
+[TA 0] No change to rubric for Q4 (G)
+[TA 0] No change to rubric for Q5 (I)
+[TA 2] Marked question 3 for student 0004
+[TA 2] Finished all questions for student 0004
+[TA 2] Starting exam for student 0005
+[TA 1] Marked question 4 for student 0002
+[TA 1] Finished all questions for student 0002
+[TA 1] Starting exam for student 0005
+[TA 2] No change to rubric for Q1 (D)
+[TA 0] Marked question 1 for student 0005
+[TA 0] Finished all questions for student 0005
+[PARENT] Loaded exam data/exams/exam_0006.txt (student 0006)
+[TA 0] Starting exam for student 0006
+[TA 1] Correcting rubric for Q1: D -> E
+[TA 2] Correcting rubric for Q2: J -> K
+[TA 0] No change to rubric for Q1 (E)
+[TA 1] Correcting rubric for Q2: K -> L
+[TA 2] No change to rubric for Q3 (H)
+[TA 0] No change to rubric for Q2 (L)
+[TA 1] No change to rubric for Q3 (H)
+[TA 2] Correcting rubric for Q4: G -> H
+[TA 1] No change to rubric for Q4 (H)
+[TA 0] No change to rubric for Q3 (H)
+[TA 2] No change to rubric for Q5 (I)
+[TA 1] No change to rubric for Q5 (I)
+[TA 0] Correcting rubric for Q4: H -> I
+[TA 2] Marked question 5 for student 0005
+[TA 0] No change to rubric for Q5 (I)
+[TA 1] Marked question 1 for student 0005
+[TA 2] Marked question 2 for student 0005
+[TA 2] Finished all questions for student 0005
+[TA 2] Starting exam for student 0006
+[TA 0] Marked question 3 for student 0006
+[TA 0] Finished all questions for student 0006
+[PARENT] Loaded exam data/exams/exam_0007.txt (student 0007)
+[TA 0] Starting exam for student 0007
+[TA 2] Correcting rubric for Q1: E -> F
+[TA 1] Marked question 4 for student 0005
+[TA 0] No change to rubric for Q1 (F)
+[TA 2] Correcting rubric for Q2: L -> M
+[TA 1] Marked question 1 for student 0005
+[TA 0] No change to rubric for Q2 (M)
+[TA 2] Correcting rubric for Q3: H -> I
+[TA 0] No change to rubric for Q3 (I)
+[TA 2] Correcting rubric for Q4: I -> J
+[TA 0] Correcting rubric for Q4: J -> K
+[TA 2] Correcting rubric for Q5: I -> J
+[TA 1] Marked question 2 for student 0005
+[TA 0] Correcting rubric for Q5: J -> K
+[TA 2] Marked question 3 for student 0006
+[TA 2] Finished all questions for student 0006
+[TA 2] Starting exam for student 0007
+[TA 1] Marked question 4 for student 0005
+[TA 1] Finished all questions for student 0005
+[TA 1] Starting exam for student 0007
+[TA 0] Marked question 5 for student 0007
+[TA 0] Finished all questions for student 0007
+[PARENT] Loaded exam data/exams/exam_0008.txt (student 0008)
+[TA 0] Starting exam for student 0008
+[TA 2] Correcting rubric for Q1: F -> G
+[TA 0] Correcting rubric for Q1: G -> H
+[TA 1] No change to rubric for Q1 (H)
+[TA 2] Correcting rubric for Q2: M -> N
+[TA 1] Correcting rubric for Q2: N -> O
+[TA 0] No change to rubric for Q2 (O)
+[TA 2] Correcting rubric for Q3: I -> J
+[TA 1] Correcting rubric for Q3: J -> K
+[TA 0] Correcting rubric for Q3: K -> L
+[TA 2] Correcting rubric for Q4: K -> L
+[TA 1] Correcting rubric for Q4: L -> M
+[TA 2] Correcting rubric for Q5: K -> L
+[TA 0] Correcting rubric for Q4: M -> N
+[TA 1] No change to rubric for Q5 (L)
+[TA 0] Correcting rubric for Q5: L -> M
+[TA 2] Marked question 5 for student 0007
+[TA 0] Marked question 3 for student 0008
+[TA 1] Marked question 1 for student 0007
+[TA 1] Finished all questions for student 0007
+[TA 1] Starting exam for student 0008
+[TA 2] Marked question 2 for student 0007
+[TA 2] Finished all questions for student 0007
+[TA 2] Starting exam for student 0008
+[TA 1] Correcting rubric for Q1: H -> I
+[TA 0] Marked question 4 for student 0008
+[TA 0] Finished all questions for student 0008
+[PARENT] Loaded exam data/exams/exam_0009.txt (student 0009)
+[TA 0] Starting exam for student 0009
+[TA 1] Correcting rubric for Q2: O -> P
+[TA 2] Correcting rubric for Q1: I -> J
+[TA 0] No change to rubric for Q1 (J)
+[TA 2] No change to rubric for Q2 (P)
+[TA 1] No change to rubric for Q3 (L)
+[TA 0] No change to rubric for Q2 (P)
+[TA 2] No change to rubric for Q3 (L)
+[TA 1] No change to rubric for Q4 (N)
+[TA 0] Correcting rubric for Q3: L -> M
+[TA 2] Correcting rubric for Q4: N -> O
+[TA 0] Correcting rubric for Q4: O -> P
+[TA 1] Correcting rubric for Q5: M -> N
+[TA 2] No change to rubric for Q5 (N)
+[TA 0] Correcting rubric for Q5: N -> O
+[TA 1] Marked question 2 for student 0008
+[TA 0] Marked question 4 for student 0009
+[TA 2] Marked question 3 for student 0008
+[TA 0] Finished all questions for student 0009
+[PARENT] Loaded exam data/exams/exam_0010.txt (student 0010)
+[TA 0] Starting exam for student 0010
+[TA 1] Marked question 5 for student 0008
+[TA 0] Correcting rubric for Q1: J -> K
+[TA 0] No change to rubric for Q2 (P)
+[TA 2] Marked question 1 for student 0008
+[TA 1] Marked question 4 for student 0008
+[TA 0] Correcting rubric for Q3: M -> N
+[TA 0] No change to rubric for Q4 (P)
+[TA 1] Marked question 1 for student 0008
+[TA 2] Marked question 2 for student 0008
+[TA 0] No change to rubric for Q5 (O)
+[TA 2] Finished all questions for student 0008
+[TA 2] Starting exam for student 0010
+[TA 1] Marked question 5 for student 0008
+[TA 1] Finished all questions for student 0008
+[TA 1] Starting exam for student 0010
+[TA 2] No change to rubric for Q1 (K)
+[TA 1] Correcting rubric for Q1: K -> L
+[TA 0] Marked question 3 for student 0010
+[TA 0] Finished all questions for student 0010
+[PARENT] Loaded exam data/exams/exam_0011.txt (student 0011)
+[TA 0] Starting exam for student 0011
+[TA 2] Correcting rubric for Q2: P -> Q
+[TA 0] Correcting rubric for Q1: L -> M
+[TA 2] Correcting rubric for Q3: N -> O
+[TA 1] Correcting rubric for Q2: Q -> R
+[TA 0] No change to rubric for Q2 (R)
+[TA 1] Correcting rubric for Q3: O -> P
+[TA 2] No change to rubric for Q4 (P)
+[TA 0] No change to rubric for Q3 (P)
+[TA 1] No change to rubric for Q4 (P)
+[TA 2] No change to rubric for Q5 (O)
+[TA 0] No change to rubric for Q4 (P)
+[TA 1] No change to rubric for Q5 (O)
+[TA 0] No change to rubric for Q5 (O)
+[TA 2] Marked question 1 for student 0010
+[TA 0] Marked question 5 for student 0011
+[TA 1] Marked question 3 for student 0010
+[TA 0] Finished all questions for student 0011
+[PARENT] Loaded exam data/exams/exam_0012.txt (student 0012)
+[TA 0] Starting exam for student 0012
+[TA 0] No change to rubric for Q1 (M)
+[TA 2] Marked question 4 for student 0010
+[TA 1] Marked question 2 for student 0010
+[TA 0] Correcting rubric for Q2: R -> S
+[TA 1] Marked question 3 for student 0010
+[TA 0] Correcting rubric for Q3: P -> Q
+[TA 2] Marked question 1 for student 0010
+[TA 0] Correcting rubric for Q4: P -> Q
+[TA 0] Correcting rubric for Q5: O -> P
+[TA 1] Marked question 4 for student 0010
+[TA 1] Finished all questions for student 0010
+[TA 1] Starting exam for student 0012
+[TA 2] Marked question 5 for student 0010
+[TA 2] Finished all questions for student 0010
+[TA 2] Starting exam for student 0012
+[TA 2] Correcting rubric for Q1: M -> N
+[TA 1] No change to rubric for Q1 (N)
+[TA 1] Correcting rubric for Q2: S -> T
+[TA 2] Correcting rubric for Q2: T -> U
+[TA 0] Marked question 2 for student 0012
+[TA 0] Finished all questions for student 0012
+[PARENT] Loaded exam data/exams/exam_0013.txt (student 0013)
+[TA 0] Starting exam for student 0013
+[TA 2] No change to rubric for Q3 (Q)
+[TA 0] Correcting rubric for Q1: N -> O
+[TA 1] No change to rubric for Q3 (Q)
+[TA 1] Correcting rubric for Q4: Q -> R
+[TA 2] Correcting rubric for Q4: R -> S
+[TA 0] No change to rubric for Q2 (U)
+[TA 1] No change to rubric for Q5 (P)
+[TA 0] No change to rubric for Q3 (Q)
+[TA 2] Correcting rubric for Q5: P -> Q
+[TA 0] Correcting rubric for Q4: S -> T
+[TA 1] Marked question 4 for student 0012
+[TA 0] No change to rubric for Q5 (Q)
+[TA 2] Marked question 3 for student 0012
+[TA 1] Marked question 5 for student 0012
+[TA 1] Finished all questions for student 0012
+[TA 1] Starting exam for student 0013
+[TA 1] Correcting rubric for Q1: O -> P
+[TA 0] Marked question 2 for student 0013
+[TA 0] Finished all questions for student 0013
+[PARENT] Loaded exam data/exams/exam_0014.txt (student 0014)
+[TA 0] Starting exam for student 0014
+[TA 1] No change to rubric for Q2 (U)
+[TA 2] Marked question 1 for student 0012
+[TA 0] Correcting rubric for Q1: P -> Q
+[TA 1] No change to rubric for Q3 (Q)
+[TA 0] Correcting rubric for Q2: U -> V
+[TA 0] Correcting rubric for Q3: Q -> R
+[TA 1] No change to rubric for Q4 (T)
+[TA 2] Marked question 5 for student 0012
+[TA 0] No change to rubric for Q4 (T)
+[TA 1] Correcting rubric for Q5: Q -> R
+[TA 0] Correcting rubric for Q5: R -> S
+[TA 2] Marked question 3 for student 0012
+[TA 1] Marked question 4 for student 0013
+[TA 1] Finished all questions for student 0013
+[TA 1] Starting exam for student 0014
+[TA 0] Marked question 2 for student 0014
+[TA 0] Finished all questions for student 0014
+[PARENT] Loaded exam data/exams/exam_0015.txt (student 0015)
+[TA 0] Starting exam for student 0015
+[TA 2] Marked question 1 for student 0012
+[TA 0] No change to rubric for Q1 (Q)
+[TA 1] No change to rubric for Q1 (Q)
+[TA 0] Correcting rubric for Q2: V -> W
+[TA 1] No change to rubric for Q2 (W)
+[TA 0] No change to rubric for Q3 (R)
+[TA 1] No change to rubric for Q3 (R)
+[TA 2] Marked question 1 for student 0012
+[TA 0] Correcting rubric for Q4: T -> U
+[TA 1] Correcting rubric for Q4: U -> V
+[TA 0] Correcting rubric for Q5: S -> T
+[TA 2] Marked question 5 for student 0012
+[TA 1] No change to rubric for Q5 (T)
+[TA 2] Marked question 4 for student 0012
+[TA 1] Finished all questions for student 0014
+[TA 1] Starting exam for student 0015
+[TA 0] Marked question 2 for student 0015
+[TA 0] Finished all questions for student 0015
+[PARENT] Loaded exam data/exams/exam_0016.txt (student 0016)
+[TA 0] Starting exam for student 0016
+[TA 1] Correcting rubric for Q1: Q -> R
+[TA 0] No change to rubric for Q1 (R)
+[TA 0] Correcting rubric for Q2: W -> X
+[TA 1] Correcting rubric for Q2: X -> Y
+[TA 2] Marked question 3 for student 0012
+[TA 0] Correcting rubric for Q3: R -> S
+[TA 1] Correcting rubric for Q3: S -> T
+[TA 1] No change to rubric for Q4 (V)
+[TA 0] Correcting rubric for Q4: V -> W
+[TA 2] Marked question 2 for student 0012
+[TA 1] Correcting rubric for Q5: T -> U
+[TA 0] No change to rubric for Q5 (U)
+[TA 2] Marked question 4 for student 0012
+[TA 0] Marked question 5 for student 0016
+[TA 0] Finished all questions for student 0016
+[PARENT] Loaded exam data/exams/exam_0017.txt (student 0017)
+[TA 0] Starting exam for student 0017
+[TA 1] Marked question 3 for student 0015
+[TA 0] Correcting rubric for Q1: R -> S
+[TA 0] No change to rubric for Q2 (Y)
+[TA 2] Marked question 1 for student 0012
+[TA 1] Marked question 2 for student 0015
+[TA 0] No change to rubric for Q3 (T)
+[TA 2] Marked question 1 for student 0012
+[TA 0] No change to rubric for Q4 (W)
+[TA 1] Marked question 3 for student 0015
+[TA 0] Correcting rubric for Q5: U -> V
+[TA 1] Finished all questions for student 0015
+[TA 1] Starting exam for student 0017
+[TA 1] No change to rubric for Q1 (S)
+[TA 2] Marked question 4 for student 0012
+[TA 2] Finished all questions for student 0012
+[TA 2] Starting exam for student 0017
+[TA 1] Correcting rubric for Q2: Y -> Z
+[TA 2] Correcting rubric for Q1: S -> T
+[TA 0] Marked question 5 for student 0017
+[TA 0] Finished all questions for student 0017
+[PARENT] Loaded exam data/exams/exam_0018.txt (student 0018)
+[TA 0] Starting exam for student 0018
+[TA 2] Correcting rubric for Q2: Z -> [
+[TA 1] No change to rubric for Q3 (T)
+[TA 0] Correcting rubric for Q1: T -> U
+[TA 2] Correcting rubric for Q3: T -> U
+[TA 1] No change to rubric for Q4 (W)
+[TA 0] No change to rubric for Q2 ([)
+[TA 2] Correcting rubric for Q4: W -> X
+[TA 1] No change to rubric for Q5 (V)
+[TA 0] No change to rubric for Q3 (U)
+[TA 2] No change to rubric for Q5 (V)
+[TA 0] Correcting rubric for Q4: X -> Y
+[TA 0] No change to rubric for Q5 (V)
+[TA 2] Marked question 3 for student 0017
+[TA 1] Marked question 5 for student 0017
+[TA 2] Marked question 1 for student 0017
+[TA 2] Finished all questions for student 0017
+[TA 2] Starting exam for student 0018
+[TA 0] Marked question 4 for student 0018
+[TA 0] Finished all questions for student 0018
+[PARENT] Loaded exam data/exams/exam_0019.txt (student 0019)
+[TA 0] Starting exam for student 0019
+[TA 1] Marked question 2 for student 0017
+[TA 2] Correcting rubric for Q1: U -> V
+[TA 0] No change to rubric for Q1 (V)
+[TA 2] Correcting rubric for Q2: [ -> \
+[TA 0] No change to rubric for Q2 (\)
+[TA 1] Marked question 1 for student 0017
+[TA 2] No change to rubric for Q3 (U)
+[TA 0] No change to rubric for Q3 (U)
+[TA 0] Correcting rubric for Q4: Y -> Z
+[TA 2] Correcting rubric for Q4: Z -> [
+[TA 1] Marked question 4 for student 0017
+[TA 0] No change to rubric for Q5 (V)
+[TA 2] Correcting rubric for Q5: V -> W
+[TA 1] Marked question 5 for student 0017
+[TA 1] Finished all questions for student 0017
+[TA 1] Starting exam for student 0019
+[TA 0] Marked question 3 for student 0019
+[TA 0] Finished all questions for student 0019
+[PARENT] Loaded exam data/exams/exam_0020.txt (student 9999)
+[TA 0] Sentinel exam reached. Now Exiting.
+[TA 1] Correcting rubric for Q1: V -> W
+[TA 2] Marked question 2 for student 0018
+[TA 1] No change to rubric for Q2 (\)
+[TA 2] Marked question 4 for student 0018
+[TA 1] No change to rubric for Q3 (U)
+[TA 1] No change to rubric for Q4 ([)
+[TA 2] Marked question 2 for student 0018
+[TA 1] Correcting rubric for Q5: W -> X
+[TA 1] Marked question 1 for student 0019
+[TA 2] Marked question 3 for student 0018
+[TA 2] Finished all questions for student 0018
+[TA 2] Sentinel exam reached. Now Exiting.
+[TA 1] Marked question 5 for student 0019
+[TA 1] Finished all questions for student 0019
+[TA 1] Sentinel exam reached. Now Exiting.
+[PARENT] All TAs finished. Cleaning up.
